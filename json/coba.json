@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Putri",
+        "umur" : 20,
+        "nip" : "2217020036",
+        "lulus" : false,
+        "hobby" : [
+            "codding",
+            "reading"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Doddy Ardiansya",
+            "pembimbing2" : "Erika "
+        }
+
+    },
+     {
+        "nama" : "Mutiara",
+        "umur" : 20,
+        "nip" : "2217020063",
+        "lulus" : false,
+        "hobby" : [
+            "codding",
+            "reading"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Doddy Ardiansya",
+            "pembimbing2" : "Erika "
+        }
+
+    }
+]
